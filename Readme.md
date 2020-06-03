@@ -7,4 +7,4 @@
 
 # How to: Create a Real-Time Chart
 
-This example shows how to create a chart and update its data source at real time.
+This example shows how to create a chart and update its data source in real time.
