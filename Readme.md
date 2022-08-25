@@ -21,6 +21,7 @@ The example uses an [ObservableCollection](https://docs.microsoft.com/en-us/dotn
 
 * [How to: Create a Real-Time Chart (MVVM)](https://docs.devexpress.com/WPF/401796/controls-and-libraries/charts-suite/chart-control/examples/providing-data/how-to-create-a-real-time-chart?p=netframework)
 * [Best Practices: Display Large Data](https://docs.devexpress.com/WPF/400482/controls-and-libraries/charts-suite/chart-control/provide-data/best-practices-display-large-data)
+* [Series](https://docs.devexpress.com/WPF/6339/controls-and-libraries/charts-suite/chart-control/series/series)
 
 ## More Examples
 
