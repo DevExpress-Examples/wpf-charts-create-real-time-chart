@@ -30,7 +30,7 @@ The example uses an [ObservableCollection](https://docs.microsoft.com/en-us/dotn
 * [How to generate Series of identical view types using the MVVM binding style](https://github.com/DevExpress-Examples/how-to-generate-series-of-identical-view-types-using-the-mvvm-binding-style-t513360)
 * [How to bind a chart to an observable collection](https://github.com/DevExpress-Examples/how-to-bind-a-chart-to-an-observable-collection-e2595)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-create-real-time-chart&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-create-real-time-chart&~~~was_helpful=no)
 
